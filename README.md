@@ -1,5 +1,6 @@
-# Tumor-Informed MRD Panel Designer — TCGA KIRC
-![Detection curve](docs/screenshots/detection.png)
+# Tumor-Informed MRD Panel Designer (TCGA KIRC)
+![Detection curve](docs/screenshots/detection_1.png)
+![Detection curve 2](docs/screenshots/detection_2.png)
 ## Purpose
 
 This is a Streamlit teaching app that designs a tumor-informed Minimal Residual
