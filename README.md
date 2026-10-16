@@ -1,5 +1,5 @@
 # Tumor-Informed MRD Panel Designer — TCGA KIRC
-
+![Detection curve](docs/screenshots/detection.png)
 ## Purpose
 
 This is a Streamlit teaching app that designs a tumor-informed Minimal Residual
@@ -12,6 +12,8 @@ plasma tumor fraction (TF) using a CCF-weighted Poisson model. The goal is to ma
 the key quantitative steps in tumor-informed MRD panel design — purity inference,
 clonality estimation, and detection modeling — transparent and interactive for
 educational purposes.
+
+Built with an AI coding agent (Kiro CLI) during the AWS RSA workshop; scientific design and review are mine. See DEVLOG.md for the corrections made.
 
 ---
 
